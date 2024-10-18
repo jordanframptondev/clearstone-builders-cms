@@ -6,7 +6,6 @@ import {schemaTypes} from './schemaTypes'
 export default defineConfig({
   name: 'default',
   title: 'clearstone-builders-cms',
-
   projectId: 'geus6dp5',
   dataset: 'production',
 
